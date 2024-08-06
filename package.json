@@ -1,0 +1,17 @@
+{
+  "name": "railway-gps-data-generator",
+  "version": "1.0.0",
+  "description": "Generates data, that simulates the GPS data gained through IOT devices attached to the trains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^7.0.0",
+    "faker": "^5.5.3",
+    "node-cron": "^3.0.3"
+  }
+}
